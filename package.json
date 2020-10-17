@@ -1,0 +1,14 @@
+{
+  "name": "web-automation-cypress",
+  "version": "1.0.0",
+  "description": "web automation framework",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "anand",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^5.4.0"
+  }
+}
