@@ -1,5 +1,3 @@
-/// <reference types="Cypress" />
-
 describe('Ebay Tests', () => {
     
     beforeEach(() => {
